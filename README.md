@@ -16,6 +16,7 @@ Once installed with Alfred you can run the following commands
     caff        ::  Toggle caffeine on and off
     caff on     ::  Turn caffeine on indefinitely
     caff 5      ::  Turn caffeine on for 5 minutes (the # can be changed to any number)
+    caff 2h     ::  Turn caffeine on for 2 hours (any number followed by an h will work, even decimals)
     caff off    ::  Turn caffeine off
     caff quit   ::  Quit caffeine (can also use 'caff end' or 'caff exit')
     caff start  ::  Start caffeine (can also use 'caff init')
